@@ -1,4 +1,5 @@
 # Chinese-Earthquakes-Visualization
+![earthquake](https://github.com/user-attachments/assets/c6d573b5-7e5e-4720-b1ff-5b084e63c575)
 
 Overview
 
@@ -100,10 +101,6 @@ Explore outputs:
 CSV files in the output directory.
 
 Interactive visualizations in the browser.
-
-Author
-
-[Leo Huang]
 
 License
 
